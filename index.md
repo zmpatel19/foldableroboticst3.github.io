@@ -7,11 +7,11 @@ title: Foldable Robots Project
 
 |    Name                                |    Email    |
 | -----------                            | ----------- |
-| Kevin Abishek                          | _kabishek@asu.edu_      |
+| Kevin Abishek                          | _kabishek@asu.edu_|
 | Mohammad Zaki Patel                    |_mmpate15@asu.edu_ |
 |  Shih-Heng Chen                        |_schen304@asu.edu_ |
-| Aaksh Varma                            | _aaakash1@asu.edu_  |
-| Andrew Fechter                         | _afechter@asu.edu_  |
+| Aaksh Varma                            | _aaakash1@asu.edu_|
+| Andrew Fechter                         | _afechter@asu.edu_|
 # Home
 
 ## Introduction
