@@ -19,7 +19,7 @@ Legged motion is one of the most demanding movements in mobile robots. Interest 
 
 ## Research Question
 
-[link to background](/background.md)
+[link to Researchquestion](/Researchquestion.md)
 
 ## Background
 
