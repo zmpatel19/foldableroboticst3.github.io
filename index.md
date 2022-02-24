@@ -12,6 +12,7 @@ title: Foldable Robots Project
 |  Shih-Heng Chen                        |_schen304@asu.edu_ |
 | Aaksh Varma                            | _aaakash1@asu.edu_|
 | Andrew Fechter                         | _afechter@asu.edu_|
+
 # Home
 
 ## Introduction
