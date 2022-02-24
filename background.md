@@ -1,7 +1,7 @@
 ---
 title: Background
-team:joseph
 ---
+
 
 # Background
 
