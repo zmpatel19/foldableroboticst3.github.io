@@ -5,13 +5,13 @@ title: Foldable Robots Project
 # Project Title: Snake-like Bio-inspired Degradable Robot
 **Team 3**
 
-|    Name                                 |    Email    |
-| -----------                             | ----------- |
-| Kevin Abishek                         | _kabishek@asu.edu_      |
-| Mohammad Zaki Patel                     |_mmpate15@asu.edu_ |
-|  Shih-Heng Chen                  |_schen304@asu.edu_ |
-| Aaksh Varma     | _aaakash1@asu.edu_  |
-| Andrew Fechter      | _afechter@asu.edu_  |
+|    Name                                |    Email    |
+| -----------                            | ----------- |
+| Kevin Abishek                          | _kabishek@asu.edu_      |
+| Mohammad Zaki Patel                    |_mmpate15@asu.edu_ |
+|  Shih-Heng Chen                        |_schen304@asu.edu_ |
+| Aaksh Varma                            | _aaakash1@asu.edu_  |
+| Andrew Fechter                         | _afechter@asu.edu_  |
 # Home
 
 ## Introduction
