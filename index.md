@@ -1,20 +1,25 @@
 ---
-title: Home
+title: Foldable Robots Project 
 ---
 
+# Project Title: Snake-like Bio-inspired Degradable Robot
+**Team 3**
+
+|    Name                                 |    Email    |
+| -----------                             | ----------- |
+| Kevin Abishek                         | _kabishek@asu.edu_      |
+| Mohammad Zaki Patel                     |_mmpate15@asu.edu_ |
+|  Shih-Heng Chen                  |_schen304@asu.edu_ |
+| Aaksh Varma     | _aaakash1@asu.edu_  |
+| Andrew Fechter      | _afechter@asu.edu_  |
 # Home
 
 ## Introduction
-
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+Legged motion is one of the most demanding movements in mobile robots. Interest in developing an artificial muscle for smooth legged motion.
 
 ## Research Question
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
+(/researchedquestion.md)
 
 ## Background
 
