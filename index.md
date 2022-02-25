@@ -9,7 +9,7 @@ title: Foldable Robots Project
 | -----------                            | ----------- |
 | Kevin Abishek                          | _kabishek@asu.edu_|
 | Mohammad Zaki Patel                    |_mmpate15@asu.edu_ |
-|  Shih-Heng Chen                        |_schen304@asu.edu_ |
+| Shih-Heng Chen                         |_schen304@asu.edu_ |
 | Aaksh Varma                            | _aaakash1@asu.edu_|
 | Andrew Fechter                         | _afechter@asu.edu_|
 
@@ -19,8 +19,10 @@ title: Foldable Robots Project
 Legged motion is one of the most demanding movements in mobile robots. Interest in developing an artificial muscle for smooth legged motion.
 
 ## Research Question
+How can we design an elemental artificial muscle using foldable robotics techniques that can produce the same biomechanical properties as that involved in legged motion of land based vertebrates?
 
-[link to Researchquestion](/Researchquestion.md)
+
+[Link to Research Question](/Researchquestion.md)
 
 ## Biomechanics
 [link to Biomechanics](/Biomechanics.md)
