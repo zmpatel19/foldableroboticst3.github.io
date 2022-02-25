@@ -30,23 +30,3 @@ Legged motion is one of the most demanding movements in mobile robots. Interest 
 
 ## Presentations
 [link to Presentations](/Presentations.md)
-## Background
-
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
-
-[link to background](/background.md)
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-## References
