@@ -2,7 +2,7 @@
 title: Foldable Robots Project 
 ---
 
-# Project Title: Artificial Muscle for Legged Robots
+# Project Title: Artificial Muscle implementaion on Legged Robots
 **Team 3**
 
 |    Name                                |    Email    |
