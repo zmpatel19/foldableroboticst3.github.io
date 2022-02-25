@@ -5,6 +5,7 @@ title: Researchquestion.md
 
 # Research Question
 
+
 ### Introduction:
 
 Most modern day actuators feature high precision, but are often constrained to either dynamic or kinematic control. In other words, they can, to a high degree of precision, work with complex control systems to control either torque outputs or speed/acceleration. 
@@ -37,5 +38,6 @@ Artificial Muscles are a new class of SEA actuators that has been gaining intere
 Legged motion is one of the most demanding and highly cycled movements in any land based vertebrate. Naturally, this makes muscle dynamics during legged motion an ideal benchmark for our experiments. Through this project, our team will try to investigate if such an artificial muscle can be tuned to match stiffness and damping properties of muscles involved in legged motion. Through this project, we aim to answer the following research questions:
 
 Can an elemental artificial muscle be designed to reproduce the same biomechanical properties as that of muscles involved in legged motion?
+
 
 
