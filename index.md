@@ -2,7 +2,7 @@
 title: Foldable Robots Project 
 ---
 
-# Project Title: Snake-like Bio-inspired Degradable Robot
+# Project Title: Artificial Muscle for Legged Robots
 **Team 3**
 
 |    Name                                |    Email    |
