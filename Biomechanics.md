@@ -2,7 +2,7 @@
 title: Biomechanics
 ---
 
-# Biomechanics Background and Initial Specifications
+# Biomechanics Background and 
 
 ###  Bioinspiration & assumption
 
