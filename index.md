@@ -29,7 +29,7 @@ How can we design an elemental artificial muscle using foldable robotics techniq
 [link to Kinematics](/Kinematics.md)
 
 ## Dynamics Model 1
-[link to System Dynamics model](https://nbviewer.jupyter.org/url/team3.github.io/blob/main/System_Dynamics.ipynb)
+[link to System Dynamics model](https://nbviewer.org/github/schen304joseph/team3.github.io/blob/main/System_Dynamics.ipynb)
 
 ## Presentations
 [link to Presentations](/Presentations.md)
