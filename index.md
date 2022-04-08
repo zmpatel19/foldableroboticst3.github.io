@@ -32,7 +32,7 @@ How can we design an elemental artificial muscle using foldable robotics techniq
 [Link to System Dynamics model](https://nbviewer.org/github/schen304joseph/team3.github.io/blob/main/System_Dynamics.ipynb)
 
 ## Parameter Identification Plan
-[Link to Parameter Identification Plan](Parameter_Identification_Plan.pdf)
+[Link to Parameter Identification Plan](/Parameter_Identification_Plan.pdf)
 
 ## Presentations
 [Link to Presentations](/Presentations.md)
