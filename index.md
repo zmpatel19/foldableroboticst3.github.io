@@ -30,5 +30,8 @@ How can we design an elemental artificial muscle using foldable robotics techniq
 ## Kinematics
 [link to Kinematics](/Kinematics.md)
 
+## Dynamics Model 1
+[link to Kinematics](/Kinematics.md)
+
 ## Presentations
 [link to Presentations](/Presentations.md)
