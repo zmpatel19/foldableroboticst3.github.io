@@ -10,8 +10,6 @@ title: Foldable Robots Project
 | Kevin Abishek                          | _kabishek@asu.edu_|
 | Mohammad Zaki Patel                    |_mmpate15@asu.edu_ |
 | Shih-Heng Chen                         |_schen304@asu.edu_ |
-| Aaksh Varma                            | _aaakash1@asu.edu_|
-| Andrew Fechter                         | _afechter@asu.edu_|
 
 # Home
 
@@ -31,7 +29,7 @@ How can we design an elemental artificial muscle using foldable robotics techniq
 [link to Kinematics](/Kinematics.md)
 
 ## Dynamics Model 1
-[link to System Dynamics model](https://nbviewer.jupyter.org/url/team3.github.io/DynamicsI_Team3.ipynb)
+[link to System Dynamics model](https://nbviewer.jupyter.org/url/team3.github.io/Dynamics_I.ipynb)
 
 ## Presentations
 [link to Presentations](/Presentations.md)
