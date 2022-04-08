@@ -23,13 +23,16 @@ How can we design an elemental artificial muscle using foldable robotics techniq
 [Link to Research Question](/Researchquestion.md)
 
 ## Biomechanics
-[link to Biomechanics](/Biomechanics.md)
+[Link to Biomechanics](/Biomechanics.md)
 
 ## Kinematics
-[link to Kinematics](/Kinematics.md)
+[Link to Kinematics](/Kinematics.md)
 
 ## Dynamics Model 1
-[link to System Dynamics model](https://nbviewer.org/github/schen304joseph/team3.github.io/blob/main/System_Dynamics.ipynb)
+[Link to System Dynamics model](https://nbviewer.org/github/schen304joseph/team3.github.io/blob/main/System_Dynamics.ipynb)
+
+## Parameter Identification Plan
+[Link to Parameter Identification Plan]
 
 ## Presentations
-[link to Presentations](/Presentations.md)
+[Link to Presentations](/Presentations.md)
