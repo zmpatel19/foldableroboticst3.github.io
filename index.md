@@ -11,6 +11,8 @@ title: Foldable Robots Project
 | Mohammad Zaki Patel                    |_mmpate15@asu.edu_ |
 | Shih-Heng Chen                         |_schen304@asu.edu_ |
 
+![image caption](Gallery/IMG_5467.jpg)
+
 # Home
 
 ## Introduction
@@ -61,7 +63,7 @@ How can we design an elemental artificial muscle by controlling stiffness and ma
 
 
 ## Presentations
-[Link to Presentation 1](/Presentation_I.md)
+[Link to Presentation 1](/Presentations.md)
 
 [Link to Presentation1slide](/presentation1slide.md)
 
