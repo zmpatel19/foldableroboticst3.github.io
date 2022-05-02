@@ -10,4 +10,4 @@ The second version design is a popup mechanism which can  be manufactured in a s
 
 <iframe width="560" height="315"  src="https://gist.github.com/schen304joseph/4b79b5ed034739b3109c5faae93b2143.js"></script>
 
-<iframe width="560" height="315" src="https://gist.github.com/schen304joseph/4b79b5ed034739b3109c5faae93b2143.js"></script>
+<iframe src="https://gist.github.com/schen304joseph/4b79b5ed034739b3109c5faae93b2143.js"></script>
