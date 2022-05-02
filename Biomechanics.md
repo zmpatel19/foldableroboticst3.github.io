@@ -4,6 +4,11 @@ title: Biomechanics
 
 # Biomechanics Background and Initaial Specifications
 
+<iframe width="1000" height="1000px" src="https://docs.google.com/document/d/e/2PACX-1vQSe6ELVPOSmH0GXJzxZECvd2IR-xJUbFU527x5PX4LPJKXe8y91O6cE7rhAJ3gvxDoBaq3RRr8yudg/pub?embedded=true"></iframe>
+
+
+
+
 ###  Bioinspiration & assumption
 
 Since our project would be dealing with the designing of a novel artificial muscle concept, we decided to start by finding a muscle group that we could use as a benchmark for designing and comparing our artificial muscle to. Doing so would give us an idea of the stiffness and forces to be replicated in our own Series Elastic Element (SEE) actuator and eventually, a novel artificial muscle concept. Thus, we needed tensions and stiffness data that directly correlated to Isometric and Isotonic muscle activation.
