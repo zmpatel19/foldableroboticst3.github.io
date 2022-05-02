@@ -44,6 +44,10 @@ How can we design an elemental artificial muscle using foldable robotics techniq
 
 [Link to Presentation 3](/Presentation_III.md)
 
+## CAD model
+
+[Link to Presentation 3](/CAD model.md)
+
 ## Gallery
 [Link to Gallery](/Gallery.md)
 
