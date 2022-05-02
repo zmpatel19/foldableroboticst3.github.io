@@ -17,8 +17,7 @@ title: Foldable Robots Project
 Legged motion is one of the most demanding movements in mobile robots. Interest in developing an artificial muscle for smooth legged motion.
 
 ## Research Question
-How can we design an elemental artificial muscle using foldable robotics techniques that can produce the same biomechanical properties as that involved in legged motion of land based vertebrates?
-
+How can we design an elemental artificial muscle by controlling stiffness and manufacturing material to reproduce the same biomechanical properties as that of muscles involved in human running gait cycle?
 
 [Link to Research Question](/Researchquestion.md)
 
