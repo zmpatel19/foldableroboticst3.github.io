@@ -27,7 +27,7 @@ How can we design an elemental artificial muscle by controlling stiffness and ma
 [Link to Biomechanics](/Biomechanics.md)
 
 ## Kinematics
-[Link to Kinematics](/Kinematics.md)
+[Link to Kinematics](/systemKinematics.md)
 
 
 [Link to System Kinematics code](https://nbviewer.org/github/schen304joseph/team3.github.io/blob/475778d9a0861d0e83a10b50010543799e28a476/System_Kinematics.ipynb)
