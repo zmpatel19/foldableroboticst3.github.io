@@ -37,6 +37,7 @@ How can we design an elemental artificial muscle using foldable robotics techniq
 ## Design Optimization for Stiffness
 [Link to Design Optimization model](https://nbviewer.org/github/schen304joseph/team3.github.io/blob/main/Design_Optimization_Stiffness.ipynb)
 
+
 ## Design and Manufacturing Workflow
 [Link to Design and Manufacturing code](https://github.com/schen304joseph/Team-3/blob/main/Full_Design_Pipeline.ipynb)
 
