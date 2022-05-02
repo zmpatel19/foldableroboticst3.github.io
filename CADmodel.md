@@ -6,7 +6,7 @@ The first version of the design is consist of 4 seperated links connected to the
 ## Second version desing
 The second version design is a popup mechanism which can  be manufactured in a single piece.
 
-![image caption](CAD model/Flodable.JPG)
+![image caption](Gallery/IMG_5458.jpg)
 
 
 
