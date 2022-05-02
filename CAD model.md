@@ -10,6 +10,6 @@ The second version design is a popup mechanism which can  be manufactured in a s
 
 
 
-<iframe src="https://gist.github.com/schen304joseph/4b79b5ed034739b3109c5faae93b2143.js"></script>
 
-![link to simple notebook](https://github.com/schen304joseph/team3.github.io/blob/b9ec9aee8d393d8f8cea0e74f2db2db00b0db244/Flodable_drone.ipynb)
+
+[link to simple notebook](https://github.com/schen304joseph/team3.github.io/blob/b9ec9aee8d393d8f8cea0e74f2db2db00b0db244/Flodable_drone.ipynb)
