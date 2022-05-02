@@ -49,7 +49,7 @@ How can we design an elemental artificial muscle by controlling stiffness and ma
 
 
 ## Stiffness Experiments and Analysis
-[Link to Stiffness](/Stiffness.md)
+[Link to Stiffness](/Stiffness1.md)
 
 
 
