@@ -37,7 +37,7 @@ How can we design an elemental artificial muscle by controlling stiffness and ma
 [Link to System Dynamics model](https://nbviewer.org/github/schen304joseph/team3.github.io/blob/main/System_Dynamics.ipynb)
 
 ## Parameter Identification Plan
-[Link to Parameter Identification Plan](/Parameter Identification Plan)
+[Link to Parameter Identification Plan](/Parameter Identification Plan.md)
 
 
 [Link to Individual Parameter ID](/Parameter_ID.md)
