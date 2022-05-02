@@ -35,12 +35,12 @@ How can we design an elemental artificial muscle using foldable robotics techniq
 [Link to Parameter Identification Plan](/https://github.com/schen304joseph/team3.github.io/blob/fbcf2afefbac4ac7916e8d66ed74eb33bc4d0d8b/Parameter%20Identification%20Plan.pdf)
 
 ## Stiffness Experiments and Analysis
-[Link to Stiffness](https://github.com/schen304joseph/team3.github.io/blob/30be6b228ff71891fcf2e3ffb267a3a71181a55d/Stiffness.md)
+[Link to Stiffness](https://nbviewer.org/github/schen304joseph/team3.github.io/blob/main/Stiffness.md)
 
 
 
 ## Design Optimization for Stiffness
-[Link to Design Optimization model](https://nbviewer.org/github/schen304joseph/team3.github.io/blob/main/Design_Optimization_Stiffness.ipynb)
+[Link to Design Optimization model](https://nbviewer.org/github/schen304joseph/team3.github.io/blob/main/Design_Optimization.ipynb)
 
 
 
