@@ -8,4 +8,4 @@ The second version design is a popup mechanism which can  be manufactured in a s
 
 ![image caption](https://github.com/schen304joseph/team3.github.io/blob/2122af554250366759739ca3837feab86d97b5b1/CAD%20model/V2%20one%20%20piece.JPG)
 
-(<script src="https://gist.github.com/schen304joseph/4b79b5ed034739b3109c5faae93b2143.js"></script>)
+<iframe width="560" height="315"  src="https://gist.github.com/schen304joseph/4b79b5ed034739b3109c5faae93b2143.js"></script>
