@@ -62,12 +62,15 @@ How can we design an elemental artificial muscle by controlling stiffness and ma
 
 ## Presentations
 [Link to Presentation 1](/Presentations.md)
+
 [Link to Presentation1slide](/presentation1slide.md)
 
 [Link to Presentation 2](/Presentation_2.md)
+
 [Link to Presentation2slide](/presentation1slide.md)
 
 [Link to Presentation 3](/Presentation_III.md)
+
 [Link to Presentation3slide](/presentation1slide.md)
 
 
