@@ -45,7 +45,8 @@ How can we design an elemental artificial muscle using foldable robotics techniq
 
 
 ## Design and Manufacturing Workflow
-[Link to Design and Manufacturing code](https://github.com/schen304joseph/Team-3/blob/main/Full_Design_Pipeline.ipynb)
+[Link to Design and Manufacturing code](https://nbviewer.org/github/schen304joseph/team3.github.io/blob/821455b032386fd3cc315a200c63b5272f96a7e0/Manufacturing_Code.ipynb)
+
 
 ## Presentations
 [Link to Presentation 1](/Presentations.md)
