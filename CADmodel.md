@@ -6,7 +6,7 @@ The first version of the design is consist of 4 seperated links connected to the
 ## Second version desing
 The second version design is a popup mechanism which can  be manufactured in a single piece.
 
-![image caption](CAD  model/V2 one piece (1).jpg)
+![image caption](CAD model/V2 one piece (1).jpg)
 
 
 
