@@ -13,4 +13,4 @@ The second version design is a popup mechanism which can  be manufactured in a s
 
 
 [link to simple notebook](https://gist.github.com/4b79b5ed034739b3109c5faae93b2143.git)
-<script src="https://gist.github.com/schen304joseph/4b79b5ed034739b3109c5faae93b2143.js"></script>
+<script src="https://gist.github.com/4b79b5ed034739b3109c5faae93b2143.git"></script>
