@@ -48,12 +48,11 @@ How can we design an elemental artificial muscle by controlling stiffness and ma
 [Link to System Dynamics II model](https://nbviewer.org/github/schen304joseph/team3.github.io/blob/99c275d08f8f33cbe7132ef5955b6cf0e5fda2e4/System_Dynamics_II.ipynb)
 
 
-## Stiffness Experiments and Analysis
+
+## Design Optimization for Stiffness
 [Link to Stiffness](/Stiffness1.md)
 
 
-
-## Design Optimization for Stiffness
 [Link to Design Optimization model](https://nbviewer.org/github/schen304joseph/team3.github.io/blob/fa3052ea6ce89f758028bb9ecda30f4ba1324c7f/Design_Optimization.ipynb)
 
 
