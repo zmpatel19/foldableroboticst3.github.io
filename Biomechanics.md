@@ -2,12 +2,8 @@
 title: Biomechanics
 ---
 
-Bio Inspiration - Anatomy of human body part. 
+# Biomechanics Background and Initaial Specifications
 
-The running gait cycle is characterized by having both feet off the ground during a cycle. The cycle is comprised of the stance and swing phase.  
+<iframe width="1000" height="1000px" src="https://docs.google.com/document/d/e/2PACX-1vQSe6ELVPOSmH0GXJzxZECvd2IR-xJUbFU527x5PX4LPJKXe8y91O6cE7rhAJ3gvxDoBaq3RRr8yudg/pub?embedded=true"></iframe>
 
-During these phases calf muscles is the most activated group. It is responsible for forward propulsion and flexing movement during the cycle. 
 
-The calf muscle group is connected to the calcaneus and its motion is dominated by ankle movement (Plantar flexion and dorsiflexion).  
-
-![image caption](Biomechanics.JPG)
