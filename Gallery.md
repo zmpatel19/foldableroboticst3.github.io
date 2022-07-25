@@ -1,17 +1,16 @@
 ---
 title: Project Gallery 
 ---
+<br> ![Mechanism Motion Video](https://img.youtube.com/vi/hJmolEwz5nk/maxresdefault.jpg)(https://www.youtube.com/embed/hJmolEwz5nk) </br>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hJmolEwz5nk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br> ![One Motor Mechanism Motion Video](https://img.youtube.com/vi/58ojU0y5zME/maxresdefault.jpg)(https://www.youtube.com/watch?v=58ojU0y5zME) </br>
 
 
 
+<br> ![Full Mechanism Motion Video](https://img.youtube.com/vi/nJx5hDCAFPk/maxresdefault.jpg)(https://www.youtube.com/embed/nJx5hDCAFPk) </br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58ojU0y5zME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nJx5hDCAFPk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
